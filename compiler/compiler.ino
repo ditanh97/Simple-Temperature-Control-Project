@@ -14,7 +14,7 @@
 
 // constants
 const int baud = 9600;          // serial baud rate
-const int pinT1   = 8;          // T1
+const int pinT1   = A1;          // T1
 const int pinQ1   = 12;         // Q1 = 4
 const int pinQ2   = 13;         // Q2 = 2
 float temp;
